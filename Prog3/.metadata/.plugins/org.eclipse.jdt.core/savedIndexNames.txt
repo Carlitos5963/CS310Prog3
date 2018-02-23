@@ -1,0 +1,21 @@
+INDEX VERSION 1.130+C:\Users\You\Desktop\Carlos\School\CS310\Prog3\.metadata\.plugins\org.eclipse.jdt.core
+1524981388.index
+80049150.index
+3151219816.index
+3836985718.index
+48107348.index
+913252607.index
+3666909631.index
+756522851.index
+4247187497.index
+3581088932.index
+3216754182.index
+2247218337.index
+3001713027.index
+3716122566.index
+2161366389.index
+3919140486.index
+3231231133.index
+3847020184.index
+2047542349.index
+603890602.index

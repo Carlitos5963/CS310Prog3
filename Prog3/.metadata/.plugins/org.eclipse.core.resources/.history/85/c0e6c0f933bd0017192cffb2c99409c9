@@ -1,0 +1,9 @@
+
+public class TesterP3 {
+	//public MazeGrid maze;
+	
+	public static void main(String[] args) {
+		MazeSolver maze = new MazeSolver(25);
+		
+	}
+}
